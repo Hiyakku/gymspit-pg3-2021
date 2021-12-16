@@ -1,0 +1,7 @@
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\bin\Debug\chytáníchybiček.exe.config
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\bin\Debug\chytáníchybiček.exe
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\bin\Debug\chytáníchybiček.pdb
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\obj\Debug\chytáníchybiček.csprojAssemblyReference.cache
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\obj\Debug\chytáníchybiček.csproj.CoreCompileInputs.cache
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\obj\Debug\chytáníchybiček.exe
+C:\Users\petr.panyr\source\repos\chytáníchybiček\chytáníchybiček\obj\Debug\chytáníchybiček.pdb
